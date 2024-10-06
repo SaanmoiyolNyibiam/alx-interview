@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """This a module that has a function that creates a pascal triangle"""
 
 
