@@ -17,6 +17,8 @@ def minOperations(n):
     This is a method that calculates the fewest number of operations
     needed to result in exactly n H characters in a file.
     """
+    if n <= 1:
+        return 0
 
     chars_in_file = 1
     total_operations = 0
